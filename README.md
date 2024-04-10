@@ -45,4 +45,4 @@ Insights were chosen based on their relevance to current public health concerns 
 17. The number of individuals with a sleep disorder and high-stress level. This insight might reveal correlations between stress and sleep disorders.
  
  
-## NB: Please find the file containing all SQL queries and the syntax used for this analysis attached. The file will give you a detailed look into how I extracted the data and arrived at my conclusions.
+#### NB: Please find the file containing all SQL queries and the syntax used for this analysis attached. The file will give you a detailed look into how I extracted the data and arrived at my conclusions.
